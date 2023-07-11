@@ -37,8 +37,8 @@ You can reach me via [Email], [LinkedIn], or [Twitter].
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![JoeGitHubPro](https://github-readme-stats.vercel.app/api?username=JoeGitHubPro&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeGitHubPro&layout=compact)](https://github.com/JoeGitHubPro/github-readme-stats)
