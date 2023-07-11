@@ -27,6 +27,9 @@ As a .Net developer specialized in back-end development. I enjoy building scalab
 </p>
 </h1>
 
+I am a skilled developer with expertise in a variety of technologies, including .NET Core, .NET Framework, MVC .NET, ASP.NET Forms, SQL & SQL Server, Razor Pages, WPF & WinForms, CMD | Terminal, Logging with .NET, Identity, RESTful API, Entity DB First, LINQ, Version Control, JSON & XML, SignalR, and Algorithm & Data Structure.
+
+I am proficient in programming languages such as HTML, CSS, JavaScript, C#, C++, and Java. Additionally, I have knowledge of code paradigms such as Object-Oriented Programming, an overview of Functional Programming and Declarative Programming, and code principles such as SOLID, KISS, DRY, and Clean Code. My testing skills include Unit Test, Behavior Test, Functional Tests, Integration Tests, JWT - Refresh Tokens, and Entity Framework Core.
 
 ## 📈 GitHub Stats
 <div align="center">
