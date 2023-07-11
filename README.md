@@ -1,44 +1,77 @@
-# Hi there, I'm [Your Name] 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Youssef Mohamed</h1>
 
-I'm a passionate .NET developer with [Number of years] years of experience. I enjoy building scalable and robust applications using the latest technologies and best practices.
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Back-end+Software+Developer&center=true&width=500&height=50"></a>
+</p>
 
-## 🔭 What I'm working on
+As a .Net developer specialized in back-end development. I enjoy building scalable and robust applications using the latest technologies and best practices.
 
-Currently, I'm working on [Project Name], which is a [Brief Description of the Project].
+<h1>
+<p align="center">
+ <a href="https://joegithubpro.github.io/Profile/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://www.linkedin.com/in/youssef-mohamed-71a368217" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
 
-## 🌱 What I'm learning
+ <a href="https://twitter.com/Y_mohamed_Ali?t=uW04TUW-iDrdq0u9GFRm9g&s=09" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/youssef_mohamed.net.eg?r=nametag" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://www.facebook.com/profile.php?id=100004471519479" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
+</h1>
 
-I'm always learning and exploring new technologies. Currently, I'm learning [Technology Name] and [Technology Name].
 
-## 💬 Ask me about
-
-If you have any questions about [.NET, C#, ASP.NET, etc.], feel free to ask me.
-
-## 📫 How to reach me
-
-You can reach me via [Email], [LinkedIn], or [Twitter].
-
-## ⚡ Fun fact
-
-[Fun fact about yourself]
-
-## 🚀 Skills
-
-- C#
-- .NET Core
-- ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- HTML/CSS
-- JavaScript
-- React
-- Angular
-- Git
+## 📈 GitHub Stats
+<div align="center">
+<img src="https://myreadme.vercel.app/api/embed/JoeGitHubPro?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</div> 
 
 ## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoeGitHubPro&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 
-![JoeGitHubPro](https://github-readme-stats.vercel.app/api?username=JoeGitHubPro&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoeGitHubPro&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
 
-## 📈 Top Languages
+<a> 
+    <a href="https://github.com/JoeGitHubPro"><img alt="JoeGitHubPro Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JoeGitHubPro&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/JoeGitHubPro"><img alt="JoeGitHubPro Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JoeGitHubPro&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeGitHubPro&layout=compact)](https://github.com/JoeGitHubPro/github-readme-stats)
+
+
+<h4> Connect with me🤝: <h4>
+  </hr>
+  <a href="https://www.linkedin.com/in/youssef-mohamed-71a368217">
+   <img align="left" alt=" Ratheshan Sathiyamoorthy | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="youssef.mohamed.net.eg@gmail.com">
+    <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://twitter.com/Y_mohamed_Ali?t=uW04TUW-iDrdq0u9GFRm9g&s=09">
+    <img align="left" alt="Ratheshan Sathiyamoorthy| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>
+  <a href="https://www.instagram.com/youssef_mohamed.net.eg?r=nametag">
+    <img align="left" alt="Ratheshan Sathiyamoorthy | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+   <a href="https://www.facebook.com/profile.php?id=100004471519479">
+    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
+   <a href="https://github.com/JoeGitHubPro">
+    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <br>
