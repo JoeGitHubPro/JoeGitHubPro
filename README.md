@@ -4,7 +4,7 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Back-end+Software+Developer&center=true&width=500&height=50"></a>
 </p>
 
-As a .Net developer specialized in back-end development. I enjoy building scalable and robust applications using the latest technologies and best practices.
+As a .Net developer specialized in back-end development, my goal is to continue working in this field and eventually become a tech lead for the development of scalable, large-scale applications.
 
 <h1>
 <p align="center">
@@ -27,7 +27,9 @@ As a .Net developer specialized in back-end development. I enjoy building scalab
 </p>
 </h1>
 
-I am skilled developer with expertise in various technologies such as .NET Core, .NET Framework, MVC .NET, ASP.NET Forms, SQL & SQL Server, Razor Pages, WPF & WinForms, CMD | Terminal, Logging with .NET, Identity, RESTful API, Entity DB First, LINQ, Version Control, JSON & XML, SignalR, and Algorithm & Data Structure. They are proficient in programming languages such as HTML, CSS, JavaScript, C#, C++, and Java. The author has knowledge of code paradigms such as Object-Oriented Programming, an overview of Functional Programming and Declarative Programming, and code principles such as SOLID, KISS, DRY, and Clean Code. Their testing skills include Unit Test, Behavior Test, Functional Tests, Integration Tests, JWT - Refresh Tokens, and Entity Framework Core. They are committed to producing high-quality code that meets the needs of clients and end-users alike.
+I am developer with expertise in various technologies such as .NET Core, .NET Framework, MVC .NET, ASP.NET Forms, SQL & SQL Server, Razor Pages, WPF & WinForms, Logging with .NET, Identity, RESTful API, Entity DB First, LINQ, Version Control, JSON & XML, SignalR, and Algorithm & Data Structure. They are proficient in programming languages such as HTML, CSS, JavaScript, C#, C++, and Java.
+
+also I have knowledge of code paradigms such as Object-Oriented Programming, an overview of Functional Programming and Declarative Programming, and code principles such as SOLID, KISS, DRY, and Clean Code. Their testing skills include Unit Test, Behavior Test, Functional Tests, Integration Tests, JWT - Refresh Tokens, and Entity Framework Core. They are committed to producing high-quality code that meets the needs of clients and end-users alike.
 
 ## 📈 GitHub Stats
 <div align="center">
