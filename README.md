@@ -16,7 +16,7 @@ As a .Net developer specialized in back-end development, my goal is to continue 
  </a>
 
 
- <a href="https://www.instagram.com/youssef_mohamed.net.eg?r=nametag" target="_blank">
+ <a href="https://www.instagram.com/youssef_mohamed_ali_21" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
  <a href="https://www.facebook.com/profile.php?id=100004471519479" target="_blank">
@@ -60,22 +60,22 @@ also I have knowledge of code paradigms such as Object-Oriented Programming, an 
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/youssef-mohamed-71a368217">
-   <img align="left" alt=" Ratheshan Sathiyamoorthy | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <a href="https://www.linkedin.com/in/youssef-mohamed-ali">
+   <img align="left" alt=" Youssef Mohamed | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
   <a href="youssef.mohamed.net.eg@gmail.com">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="Youssef Mohamed  | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://twitter.com/Y_mohamed_Ali?t=uW04TUW-iDrdq0u9GFRm9g&s=09">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  <a href="https://x.com/Y_mohamed_Ali">
+    <img align="left" alt="Youssef Mohamed  | X.com" width="26px" src="https://www.vectorlogo.zone/logos/x/x-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/youssef_mohamed.net.eg?r=nametag">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  <a href="https://www.instagram.com/youssef_mohamed_ali_21">
+    <img align="left" alt="Youssef Mohamed  | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
    <a href="https://www.facebook.com/profile.php?id=100004471519479">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+    <img align="left" alt="Youssef Mohamed | Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
-   <a href="https://github.com/JoeGitHubPro">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+   <a href="https://joegithubpro.github.io/Profile/">
+    <img align="left" alt="Youssef Mohamed | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
