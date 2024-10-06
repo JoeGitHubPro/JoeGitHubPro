@@ -31,11 +31,7 @@ As a .Net developer specialized in back-end development, my goal is to continue 
 I am developer with expertise in various technologies such as .NET Core, .NET Framework, MVC .NET, ASP.NET Forms, SQL & SQL Server, Razor Pages, WPF & WinForms, Logging with .NET, Identity, RESTful API, Entity DB First, LINQ, Version Control, JSON & XML, SignalR, and Algorithm & Data Structure. They are proficient in programming languages such as HTML, CSS, JavaScript, C#, C++, and Java.
 
 also I have knowledge of code paradigms such as Object-Oriented Programming, an overview of Functional Programming and Declarative Programming, and code principles such as SOLID, KISS, DRY, and Clean Code. Their testing skills include Unit Test, Behavior Test, Functional Tests, Integration Tests, JWT - Refresh Tokens, and Entity Framework Core. They are committed to producing high-quality code that meets the needs of clients and end-users alike.
-
-## 📈 GitHub Stats
-<div align="center">
-<img src="https://myreadme.vercel.app/api/embed/JoeGitHubPro?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</div> 
+ 
 
 ## 📊 GitHub Stats
 <p align="center">
